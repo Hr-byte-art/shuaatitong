@@ -15,6 +15,7 @@ import java.util.List;
 /**
  * 题库题目关联服务
  *
+ * @author 王哈哈
  */
 public interface QuestionBankQuestionService extends IService<QuestionBankQuestion> {
 

@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 题库服务
  *
+ * @author 王哈哈
  */
 public interface QuestionBankService extends IService<QuestionBank> {
 

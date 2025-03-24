@@ -16,6 +16,7 @@ import java.util.List;
 
 /**
  * 通用的 AI 调用类
+ * @author 王哈哈
  */
 @Service
 public class AiManager {

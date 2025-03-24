@@ -14,6 +14,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 通用计数器（可用于实现频率统计、限流、封禁等等）
+ * @author 王哈哈
  */
 @Slf4j
 @Service

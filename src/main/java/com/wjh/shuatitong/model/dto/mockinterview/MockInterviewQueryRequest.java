@@ -9,6 +9,7 @@ import java.io.Serializable;
 /**
  * 查询模拟面试请求
  *
+ * @author 王哈哈
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 设备工具类
+ * @author 王哈哈
  */
 public class DeviceUtils {
 

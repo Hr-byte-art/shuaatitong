@@ -6,6 +6,7 @@ import lombok.Data;
 /**
  * 用户更新个人信息请求
  *
+ * @author 王哈哈
  */
 @Data
 public class UserUpdateMyRequest implements Serializable {

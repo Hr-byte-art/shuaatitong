@@ -4,13 +4,13 @@ use  shuatitong;
 -- 用户表初始数据（密码是 zjrwjh99978）
 INSERT INTO user (id, userAccount, userPassword, userName, userAvatar, userProfile, userRole)
 VALUES (1, 'user1', 'b0dd3697a192885d7c055db46155b26a', 'user1',
-        'https://www.code-nav.cn/logo.png', '喜欢编程的小白', 'user'),
+        'https://www.bing.com/images/search?q=%E5%A4%B4%E5%83%8F&FORM=IQFRBA&id=9BBBC0FE9781B0D7E515EA4C4F6BE42D6E5695CE', '喜欢编程的小白', 'user'),
        (2, 'user2', 'b0dd3697a192885d7c055db46155b26a',  'user2',
-        'https://www.code-nav.cn/logo.png', '全栈开发工程师', 'user'),
+        'https://www.bing.com/images/search?q=%E5%A4%B4%E5%83%8F&FORM=IQFRBA&id=9BBBC0FE9781B0D7E515EA4C4F6BE42D6E5695CE', '全栈开发工程师', 'user'),
        (3, 'user3', 'b0dd3697a192885d7c055db46155b26a', 'user3',
-        'https://www.code-nav.cn/logo.png', '前端爱好者', 'user'),
+        'https://www.bing.com/images/search?q=%E5%A4%B4%E5%83%8F&FORM=IQFRBA&id=9BBBC0FE9781B0D7E515EA4C4F6BE42D6E5695CE', '前端爱好者', 'user'),
        (4, 'user4', 'b0dd3697a192885d7c055db46155b26a', 'user4',
-        'https://www.code-nav.cn/logo.png', '后端开发工程师', 'user'),
+        'https://www.bing.com/images/search?q=%E5%A4%B4%E5%83%8F&FORM=IQFRBA&id=9BBBC0FE9781B0D7E515EA4C4F6BE42D6E5695CE', '后端开发工程师', 'user'),
        (5, 'wjh', 'b0dd3697a192885d7c055db46155b26a', '王哈哈', 'https://wjh-interview-hub-1340059484.cos.ap-chengdu.myqcloud.com/u%3D1702104353%2C1626593981%26fm%3D253%26gp%3D0.jpg',
         '系统管理员', 'admin');
 

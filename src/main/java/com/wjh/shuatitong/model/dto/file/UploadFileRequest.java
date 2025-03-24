@@ -6,6 +6,7 @@ import lombok.Data;
 /**
  * 文件上传请求
  *
+ * @author 王哈哈
  */
 @Data
 public class UploadFileRequest implements Serializable {

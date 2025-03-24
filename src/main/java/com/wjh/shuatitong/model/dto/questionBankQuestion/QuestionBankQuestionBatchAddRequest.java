@@ -8,6 +8,7 @@ import java.util.List;
 /**
  * 批量创建题库题目关联请求
  *
+ * @author 王哈哈
  */
 @Data
 public class QuestionBankQuestionBatchAddRequest implements Serializable {

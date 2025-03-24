@@ -15,7 +15,9 @@ import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
 
-// 开启 ES
+/**
+ * @author 王哈哈
+ */ // 开启 ES
 @Document(indexName = "question")
 @Data
 public class QuestionEsDTO implements Serializable {

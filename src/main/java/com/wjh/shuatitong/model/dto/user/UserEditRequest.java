@@ -7,6 +7,7 @@ import java.io.Serializable;
 /**
  * 用户编辑资料请求
  *
+ * @author 王哈哈
  */
 @Data
 public class UserEditRequest implements Serializable {

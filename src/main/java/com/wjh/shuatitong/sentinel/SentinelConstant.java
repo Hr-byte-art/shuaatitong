@@ -3,6 +3,7 @@ package com.wjh.shuatitong.sentinel;
 /**
  * Sentinel 限流熔断常量
  *
+ * @author 王哈哈
  */
 public interface SentinelConstant {
 

@@ -30,6 +30,7 @@ import static com.wjh.shuatitong.service.impl.UserServiceImpl.SALT;
 /**
  * 用户接口
  *
+ * @author 王哈哈
  */
 @RestController
 @RequestMapping("/user")

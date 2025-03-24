@@ -2,10 +2,12 @@ package com.wjh.shuatitong.model.dto.questionBankQuestion;
 
 import lombok.Data;
 
+import java.io.Serial;
 import java.io.Serializable;
 
 /**
  * 移除题目题库关系请求
+ * @author 王哈哈
  */
 @Data
 public class QuestionBankQuestionRemoveRequest implements Serializable {
@@ -19,5 +21,6 @@ public class QuestionBankQuestionRemoveRequest implements Serializable {
      */
     private Long questionId;
 
+    @Serial
     private static final long serialVersionUID = 1L;
 }

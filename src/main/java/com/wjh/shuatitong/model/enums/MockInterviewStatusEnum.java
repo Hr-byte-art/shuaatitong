@@ -3,12 +3,16 @@ package com.wjh.shuatitong.model.enums;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
+
+import lombok.Getter;
 import org.apache.commons.lang3.ObjectUtils;
 
 /**
  * 模拟面试状态枚举
  *
+ * @author 王哈哈
  */
+@Getter
 public enum MockInterviewStatusEnum {
 
     TO_START("待开始", 0),
@@ -51,11 +55,4 @@ public enum MockInterviewStatusEnum {
         return null;
     }
 
-    public int getValue() {
-        return value;
-    }
-
-    public String getText() {
-        return text;
-    }
 }

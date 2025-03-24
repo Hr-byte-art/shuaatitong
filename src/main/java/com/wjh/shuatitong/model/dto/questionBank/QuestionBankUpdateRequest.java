@@ -7,6 +7,7 @@ import java.io.Serializable;
 /**
  * 更新题库请求
  *
+ * @author 王哈哈
  */
 @Data
 public class QuestionBankUpdateRequest implements Serializable {

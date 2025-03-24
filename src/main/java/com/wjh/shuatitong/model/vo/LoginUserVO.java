@@ -7,7 +7,8 @@ import lombok.Data;
 /**
  * 已登录用户视图（脱敏）
  *
- **/
+ *
+ * @author 王哈哈*/
 @Data
 public class LoginUserVO implements Serializable {
 
